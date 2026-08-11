@@ -1419,9 +1419,7 @@ Capture the following screenshots for documentation.
 
 ## Pipeline Stage View
 
-```
-screenshots/
-02-stage-view.png
+![output images]()
 ```
 
 ---
