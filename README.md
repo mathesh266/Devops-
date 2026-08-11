@@ -1414,7 +1414,6 @@ Capture the following screenshots for documentation.
 ## Jenkins Dashboard
 
 ![output images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20Dashboard.png)
-
 ---
 
 ## Pipeline Stage View
@@ -1422,16 +1421,10 @@ Capture the following screenshots for documentation.
 ![output images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20stage.png)
 ```
 
----
-
 ## Console Output
 
+![output images]()
 ```
-screenshots/
-03-console-output.png
-```
-
----
 
 ## Successful Build
 
