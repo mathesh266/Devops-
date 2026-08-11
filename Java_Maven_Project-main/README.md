@@ -1947,15 +1947,15 @@ Feel free to use and modify this project for learning purposes.
 
 # 👨‍💻 Author
 
-**Suraj Singh R**
+**Mathesh K**
 
 DevOps | AWS | Linux | Docker | Kubernetes | Jenkins | Terraform | Ansible | Python
 
 GitHub:
-(Add your GitHub profile link here)
+()
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+(linkedin.com/in/mathesh-k-7275693aa )
 
 ---
 
