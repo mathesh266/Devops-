@@ -1413,7 +1413,7 @@ Capture the following screenshots for documentation.
 
 ## Jenkins Dashboard
 
-![output images](DEVOPS PROJECT/Screenshot Dashboard.png)
+![output images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20Dashboard.png)
 
 ---
 
