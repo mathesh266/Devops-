@@ -1423,7 +1423,7 @@ Capture the following screenshots for documentation.
 
 ## Console Output
 
-![output images](Devops%20PROJECT/console.png)
+![output images](https://github.com/mathesh266/Devops-/blob/main/console.png)
 ```
 
 ## Successful Build
