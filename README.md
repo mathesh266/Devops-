@@ -1428,10 +1428,7 @@ Capture the following screenshots for documentation.
 
 ## Successful Build
 
-```
-screenshots/
-04-build-success.png
-```
+![output images]()
 
 ---
 
