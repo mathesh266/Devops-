@@ -1440,10 +1440,7 @@ Capture the following screenshots for documentation.
 
 ## Apache Tomcat
 
-```
-screenshots/
-06-tomcat-server.png
-```
+![outpuit images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%202026-08-11%20163438.png)
 
 ---
 
