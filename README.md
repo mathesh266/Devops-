@@ -1434,10 +1434,7 @@ Capture the following screenshots for documentation.
 
 ## GitHub Repository
 
-```
-screenshots/
-05-github-repository.png
-```
+![outpuit images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20Output.png)
 
 ---
 
