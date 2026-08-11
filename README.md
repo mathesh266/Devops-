@@ -1428,7 +1428,7 @@ Capture the following screenshots for documentation.
 
 ## Successful Build
 
-![output images]()
+![output images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20Sucessfull%20build.png)
 
 ---
 
