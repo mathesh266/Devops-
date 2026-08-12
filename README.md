@@ -1419,13 +1419,13 @@ Capture the following screenshots for documentation.
 ## Pipeline Stage View
 
 ![output images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20stage.png)
-```
+
 
 ## Console Output
 
-![output images](https://github.com/mathesh266/Devops-/blob/main/console.png)
-```
 
+
+![output images](https://github.com/mathesh266/Devops-/blob/main/console.png)
 ## Successful Build
 
 ![output images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20Sucessfull%20build.png)
@@ -1434,7 +1434,7 @@ Capture the following screenshots for documentation.
 
 ## GitHub Repository
 
-![outpuit images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20Output.png)
+![output images](https://github.com/mathesh266/Devops-/blob/main/git.png)
 
 ---
 
@@ -1446,10 +1446,7 @@ Capture the following screenshots for documentation.
 
 ## Running Application
 
-```
-screenshots/
-07-running-application.png
-```
+![outpuit images](https://github.com/mathesh266/Devops-/blob/main/DEVOPS%20PROJECT/Screenshot%20Output.png)
 
 ---
 
